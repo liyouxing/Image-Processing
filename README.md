@@ -27,9 +27,9 @@
 - Pytorch: 1.[Official Tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html); 2.[Deep Learning with PyTorch](https://deeplizard.com/learn/video/Csa5R12jYRg); 3.[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
 
 ***Textbook***
--[Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
--[Mathematics For Machine Learning](https://mml-book.github.io/)
--[Understanding Machine Learning:From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
--[Machine learning: a Bayesian and optimization perspective]()
--[High-Dimensional Probability]()
+- [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
+- [Mathematics For Machine Learning](https://mml-book.github.io/)
+- [Understanding Machine Learning:From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+- [Machine learning: a Bayesian and optimization perspective]()
+- [High-Dimensional Probability]()
 

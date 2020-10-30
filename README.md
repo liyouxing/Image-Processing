@@ -1,5 +1,4 @@
 # Image-Processing Resources
-**Courses**
 
 ***Image Processing***
 - Duke University: [Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital](https://www.bilibili.com/video/BV1j7411i78H)
@@ -24,6 +23,6 @@
 - Justin Johnson: [Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/), B站(https://www.bilibili.com/video/BV1dv411v7Ly)
 
 **Tutorial**
-- OpenCV: https://docs.opencv.org/master/d9/df8/tutorial_root.html
+- OpenCV: [Official Tutorial](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
 - Pytorch: 1.[Official Tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html); 2.[Deep Learning with PyTorch](https://deeplizard.com/learn/video/Csa5R12jYRg); 3.[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
 

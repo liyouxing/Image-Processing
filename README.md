@@ -22,7 +22,7 @@
 - 李宏毅: [深度学习](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html), B站(https://www.bilibili.com/video/BV1JE411g7XF/?spm_id_from=333.788.videocard.0)
 - Justin Johnson: [Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/), B站(https://www.bilibili.com/video/BV1dv411v7Ly)
 
-**Tutorial**
+**Tutorials**
 - OpenCV: [Official Tutorial](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
 - Pytorch: 1.[Official Tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html); 2.[Deep Learning with PyTorch](https://deeplizard.com/learn/video/Csa5R12jYRg); 3.[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
 

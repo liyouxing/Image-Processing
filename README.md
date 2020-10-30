@@ -28,6 +28,7 @@
 - - -
 ***Textbook***
 - [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
+- [神经网络与深度学习](https://nndl.github.io/)
 - [Mathematics For Machine Learning](https://mml-book.github.io/)
 - [Understanding Machine Learning:From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 - [Machine learning: a Bayesian and optimization perspective]()

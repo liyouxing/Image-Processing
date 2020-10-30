@@ -9,5 +9,11 @@
 - MIT: [Linear Algebra by Gilbert Strang](https://www.bilibili.com/video/BV1ix411f7Yp?rt=V%2FymTlOu4ow%2Fy4xxNWPUZ%2FwbjxJZ55Ydur%2Bhgks6vZs%3D)
 - MIT: [A 2020 Vision of Linear Algebra by Gilbert Strang](https://www.bilibili.com/video/BV1Ki4y147Kh)
 - MIT: [Probabilistic Systems Analysis and Applied Probability](http://ocw.mit.edu/6-041SCF13), B站(https://www.bilibili.com/video/av6182731/)
+- SJTU: [统计计算与机器学习](https://space.bilibili.com/95975441/channel/detail?cid=107725)
+- SJTU: [最优化方法](https://space.bilibili.com/95975441/channel/detail?cid=107433)
+- Boyd: [Convex Optimization](https://www.bilibili.com/video/BV1Pg4y187Ed)
+- shuhuai008: [机器学习-白板推导系列](https://www.bilibili.com/video/BV1aE411o7qd)
+- 张志华: [统计机器学习](https://www.bilibili.com/video/BV1rW411N7tD)
+
 **Tutorial**
 - OpenCV: https://docs.opencv.org/master/d9/df8/tutorial_root.html

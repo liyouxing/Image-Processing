@@ -4,7 +4,7 @@
 - Duke University: [Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital](https://www.bilibili.com/video/BV1j7411i78H)
 - CMU: [Computational Photography](http://graphics.cs.cmu.edu/courses/15-463/)
 - [Computational Photography 知乎专栏](https://zhuanlan.zhihu.com/hawkcp)
-
+- - -
 ***Mathematics***
 - MIT: [Linear Algebra by Gilbert Strang](https://www.bilibili.com/video/BV1ix411f7Yp?rt=V%2FymTlOu4ow%2Fy4xxNWPUZ%2FwbjxJZ55Ydur%2Bhgks6vZs%3D)
 - MIT: [A 2020 Vision of Linear Algebra by Gilbert Strang](https://www.bilibili.com/video/BV1Ki4y147Kh)
@@ -14,18 +14,18 @@
 - Boyd: [Convex Optimization](https://www.bilibili.com/video/BV1Pg4y187Ed)
 - shuhuai008: [机器学习-白板推导系列](https://www.bilibili.com/video/BV1aE411o7qd)
 - 张志华: [统计机器学习](https://www.bilibili.com/video/BV1rW411N7tD)
-
+- - -
 ***Python***
 - 北邮: [Python编程与实践](https://www.bilibili.com/video/BV1b7411N7P2)
-
+- - -
 ***Deep Learning***
 - 李宏毅: [深度学习](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html), [B站](https://www.bilibili.com/video/BV1JE411g7XF/?spm_id_from=333.788.videocard.0)
 - Justin Johnson: [Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/), [B站](https://www.bilibili.com/video/BV1dv411v7Ly)
-
+- - -
 **Tutorials**
 - OpenCV: [Official Tutorial](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
 - Pytorch: 1.[Official Tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html); 2.[Deep Learning with PyTorch](https://deeplizard.com/learn/video/Csa5R12jYRg); 3.[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
-
+- - -
 ***Textbook***
 - [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
 - [Mathematics For Machine Learning](https://mml-book.github.io/)

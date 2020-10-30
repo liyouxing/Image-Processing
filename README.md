@@ -25,5 +25,5 @@
 
 **Tutorial**
 - OpenCV: https://docs.opencv.org/master/d9/df8/tutorial_root.html
-- Pytorch: 1.Official Tutorial(https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html); 2.Deep Learning with PyTorch(https://deeplizard.com/learn/video/Csa5R12jYRg); 3.pytorch-tutorial(https://github.com/yunjey/pytorch-tutorial)
+- Pytorch: 1.[Official Tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html); 2.[Deep Learning with PyTorch](https://deeplizard.com/learn/video/Csa5R12jYRg); 3.[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
 

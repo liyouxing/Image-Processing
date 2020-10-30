@@ -5,4 +5,4 @@
 - [Computational Photography 知乎专栏](https://zhuanlan.zhihu.com/hawkcp)
 
 **Tutorial**
--OpenCV: https://docs.opencv.org/master/d9/df8/tutorial_root.html
+- OpenCV: https://docs.opencv.org/master/d9/df8/tutorial_root.html

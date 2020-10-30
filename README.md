@@ -31,6 +31,6 @@
 - [神经网络与深度学习](https://nndl.github.io/)
 - [Mathematics For Machine Learning](https://mml-book.github.io/)
 - [Understanding Machine Learning:From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
-- [Machine learning: a Bayesian and optimization perspective]()
-- [High-Dimensional Probability]()
+- [Machine learning: a Bayesian and optimization perspective](https://github.com/loong-24/Image-Processing/blob/main/docs/High-Dimensional%20ProbabilityAn%20Introduction%20with%20Applications%20in%20Data%20Science.pdf)
+- [High-Dimensional Probability](https://github.com/loong-24/Image-Processing/blob/main/docs/Theodoridis%20-%202015%20-%20Machine%20learning%20a%20Bayesian%20and%20optimization%20pers.pdf)
 

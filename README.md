@@ -11,7 +11,7 @@
 - MIT: [Probabilistic Systems Analysis and Applied Probability](http://ocw.mit.edu/6-041SCF13), [B站](https://www.bilibili.com/video/av6182731/)
 - SJTU: [统计计算与机器学习](https://space.bilibili.com/95975441/channel/detail?cid=107725)
 - SJTU: [最优化方法](https://space.bilibili.com/95975441/channel/detail?cid=107433)
-- Boyd: [Convex Optimization](https://www.bilibili.com/video/BV1Pg4y187Ed)
+- Boyd: [Convex Optimization](http://web.stanford.edu/class/ee364a/index.html), [B站](https://www.bilibili.com/video/BV1Pg4y187Ed)
 - shuhuai008: [机器学习-白板推导系列](https://www.bilibili.com/video/BV1aE411o7qd)
 - 张志华: [统计机器学习](https://www.bilibili.com/video/BV1rW411N7tD)
 - - -
@@ -24,7 +24,7 @@
 - - -
 **Tutorials**
 - OpenCV: [Official Tutorial](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
-- Pytorch: 1.[Official Tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html); 2.[Deep Learning with PyTorch](https://deeplizard.com/learn/video/Csa5R12jYRg); 3.[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
+- Pytorch: 1.[Official Tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html); 2.[Deep Learning with PyTorch](https://deeplizard.com/learn/video/Csa5R12jYRg); 3.[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial); 4.[pytorch-styleguide](https://github.com/IgorSusmelj/pytorch-styleguide)
 - - -
 ***Textbook***
 - [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
